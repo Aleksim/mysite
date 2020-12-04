@@ -13,7 +13,10 @@
 
 .hero-style {
   font-family: "Ubuntu";
-  font-size: 1.7rem;
+  font-size: 1.5rem;
+  padding-top: 5px;
+  margin-left: 20px;
+  color: #fff;
 }
 
 .section-style {
@@ -28,11 +31,11 @@
 
 .now-text {
   font-family: "Lora";
-  font-size: 1.3rem;
+  font-size: 1.1rem;
 }
 .now-text2 {
   font-family: "Lora";
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   margin-top: 20px;
 }
 
@@ -43,7 +46,7 @@
 }
 .past-text {
   font-family: "Lora";
-  font-size: 1.3rem;
+  font-size: 1.1rem;
 }
 
 .footer-style {
@@ -56,6 +59,7 @@
 
 .footer-connect {
   text-align: center;
+  font-size: 1rem;
 }
 
 .icons-center {

@@ -4,9 +4,14 @@ import "../css/main.css"
 
 const Hero = () => {
     return (
-        <div className="hero-style">
-            Aleksi Immonen
+        <div className="navbar">
+            <div className="container">
+                <div className="hero-style">
+                    Aleksi Immonen
+                </div>
+            </div>
         </div>
+
     )
 }
 
