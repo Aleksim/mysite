@@ -1,11 +1,12 @@
 import React from 'react'
-import Hero from './Hero'
+
+import Nav from "./Nav"
 import Footer from './Footer'
 
 const Layout = ({children}) => {
     return (
         <div>
-            <Hero/>
+            <Nav/>
             {children}
             <Footer/>
         </div>

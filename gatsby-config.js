@@ -10,6 +10,21 @@ module.exports = {
     url:"https://www.aleksiimmonen.com",
   },
   plugins: [
+  
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `posts`,
+        path: `${__dirname}/src/posts/`,
+      },
+    },
+
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        gatsbyRemarkPlugins: [{ resolve: 'gatsby-remark-images' }],
+      },
+    },
 
     {
       resolve: `gatsby-source-filesystem`,

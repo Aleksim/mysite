@@ -11,12 +11,10 @@
   justify-content: center;
 }
 
-.hero-style {
-  font-family: "Ubuntu";
-  font-size: 1.5rem;
-  padding-top: 5px;
-  margin-left: 20px;
+/*navbar*/
+.nav-name {
   color: #fff;
+  font-family: Ubuntu;
 }
 
 .section-style {
@@ -30,12 +28,10 @@
 }
 
 .now-text {
-  font-family: "Lora";
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 .now-text2 {
-  font-family: "Lora";
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   margin-top: 20px;
 }
 
@@ -45,8 +41,7 @@
   text-align: center;
 }
 .past-text {
-  font-family: "Lora";
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 
 .footer-style {
@@ -60,6 +55,7 @@
 .footer-connect {
   text-align: center;
   font-size: 1rem;
+  font-family: Ubuntu;
 }
 
 .icons-center {
@@ -69,4 +65,164 @@
   justify-content: center;
   align-items: center;
   align-content: stretch;
+}
+
+/*post item*/
+
+.post-title {
+  color: #000;
+  font-size: 3rem;
+  text-align: center;
+}
+.post-preview-title {
+  color: #000;
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -2px;
+  font-family: Ubuntu;
+}
+
+.blog-hero-image {
+  width: 100%;
+  max-height: 400px;
+  overflow: hidden;
+}
+
+.post-item {
+  margin-bottom: 40px;
+}
+
+.time-date {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: stretch;
+  align-content: stretch;
+}
+
+.date-line {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: stretch;
+}
+
+.text-excerpt {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.button-items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: stretch;
+  font-family: Ubuntu;
+}
+
+.button-gen {
+  margin-bottom: 30px;
+}
+
+.logo {
+  color: #000;
+  font-size: 3rem;
+  font-weight: 800;
+  letter-spacing: -2px;
+  font-family: Ubuntu;
+}
+
+.upperbanner {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: stretch;
+  align-content: stretch;
+}
+
+.person-name-icon {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  margin-top: 10px;
+}
+
+.category-date {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: stretch;
+  margin-bottom: 25px;
+  margin-top: 10px;
+  font-family: Ubuntu;
+  font-weight: 700;
+}
+
+/*post index*/
+
+.recently {
+  text-decoration: underline;
+}
+
+.list-items {
+  margin-top: 20px;
+}
+
+/*blog*/
+
+.statement {
+  font-weight: 600;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+.text-b {
+  line-height: 1.6;
+  font-size: 1.2rem;
+  margin-bottom: 13px;
+}
+
+.text-a {
+  line-height: 1.6;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+
+.list-b {
+  line-height: 1.6;
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  margin-left: 20px;
+  font-weight: 600;
+}
+
+.text-b-list {
+  line-height: 1.6;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.blog-h2 {
+  color: #000;
+  font-size: 1.8rem;
+  font-weight: 800;
+  letter-spacing: -2px;
+  font-family: Ubuntu;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-top: 15px;
 }
