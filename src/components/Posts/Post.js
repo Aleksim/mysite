@@ -17,19 +17,14 @@ const Post = ({ frontmatter, excerpt }) => {
 
     <div className="columns">
       <div className="column">
+        <Link to={`/posts/${slug}`}>
           <p className="post-preview-title">
               {title}
           </p>
+          </Link>
           <div className="text-excerpt">
               <p>{excerpt}</p>
           </div>
-            <Link to={`/posts/${slug}`}>
-              <button className="button-gen button is-dark is-medium">
-                <span className="button-items">
-                  <strong>Read</strong>
-                </span>
-              </button>
-            </Link>
             
             <hr  style={{
               color: '#f1eff5',
