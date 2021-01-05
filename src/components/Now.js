@@ -9,7 +9,7 @@ const Now = () => {
                
                     <div className="section-style">
                         <h1 className="now-style">
-                        I am Head of Growth + Self-learned Developer
+                        Hello 👋
                         </h1>
                         <div className="section-item">
                             <h2 className="section-topic">
