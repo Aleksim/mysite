@@ -9,7 +9,6 @@ export default function Home() {
     <Layout>
       <SEO title="Alexi's site"/>
       <Now/>
-      <Past/>
     </Layout>
   )
 }

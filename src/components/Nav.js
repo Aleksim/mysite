@@ -28,6 +28,9 @@ const Nav = () => {
                 <a className="navbar-item nav-item" href="/posts">
                     Thoughts
                 </a>
+                <a className="navbar-item nav-item" href="/services">
+                    Services
+                </a>
             </div>
           </div>
         </div>
