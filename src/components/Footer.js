@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="content">
                 <div className="icons-footer">
                     <h2 className="footer-connect">
-                        Dare I ask.. to connect with me?
+                        Connect
                     </h2>
                     <div className="icons-center">
                         <a href="https://twitter.com/aleksimmonen">
