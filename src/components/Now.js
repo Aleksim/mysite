@@ -11,6 +11,9 @@ const Now = () => {
                         <h1 className="now-style">
                         Hello 👋
                         </h1>
+                        <h2 className="now-style3">
+                        I am Aleksi. Marketer, coder and entrepreneur.
+                        </h2>
                         <div className="section-item">
                             <h2 className="section-topic">
                                 Now>>
