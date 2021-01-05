@@ -32,6 +32,7 @@
   justify-content: flex-start;
   align-items: flex-start;
   align-content: stretch;
+  margin-bottom: 15px;
 }
 
 .section-topic {
@@ -65,7 +66,7 @@
 }
 .skill-text {
   font-size: 1.2rem;
-  margin-top: 15px;
+  margin-bottom: 15px;
 }
 .now-text2 {
   font-size: 1.2rem;
@@ -278,5 +279,5 @@
 }
 
 .services-section {
-  height: 60vh;
+  margin-bottom: 100px;
 }
