@@ -69,6 +69,10 @@
   font-weight: 600;
 }
 
+.year {
+  font-weight: 550;
+}
+
 .now-text {
   font-size: 1.2rem;
 }
