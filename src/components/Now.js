@@ -32,7 +32,10 @@ const Now = () => {
                             </h2>
                         </div>
                         <p className="now-text">
-                            Head of Growth at a <span><a href="https://www.musopia.net">mobile app company</a></span> (2020), <span><a href="https://www.avaus.com">martech + management consulting</a></span> and founder of two mobile app companies (2019-2012).
+                            Head of Growth at a <span><a href="https://www.musopia.net">mobile app company</a></span> (2020).
+                        </p>
+                        <p className="now-text">
+                            <span><a href="https://www.avaus.com">martech + management consulting</a></span> and founder of two mobile app companies (2019-2012).
                         </p>
                         <div className="skills">
                             <div className="section-item">
