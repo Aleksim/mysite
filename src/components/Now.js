@@ -51,7 +51,7 @@ const Now = () => {
                                 Javascript/React/ReactNative/Gatsbyjs + Python.                    
                             </p>
                             <p className="skill-text">
-                                🦾 Extensive experience from using and coordinating the use of martech tools and techniques. ASO, SEO, Automation, Paid, Organic, Referral, SDK's, attribution and what have you.                
+                                🦾 Extensive experience from using and coordinating the use of martech tools and techniques. ASO, SEO, Automation, Paid, Organic, Referral, SDK's, attribution, Adobe, SFMC and what have you.                
                             </p>
 
                             <p className="skill-text">
