@@ -26,7 +26,7 @@ const Nav = () => {
           <div className={`navbar-menu ${burger_value}`}>
             <div className="navbar-end">
                 <a className="navbar-item nav-item" href="/posts">
-                    Thoughts
+                    Blog
                 </a>
                 <a className="navbar-item nav-item" href="/services">
                     Services
