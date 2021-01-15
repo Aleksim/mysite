@@ -20,6 +20,12 @@ const Footer = () => {
                         <a href="https://www.linkedin.com/in/aleksi-immonen-31132233/">
                             <FaLinkedinIn size={30} style={{color:"#2867B2"}}/>
                         </a>
+        
+                    </div>
+                    <div className="footer-privacy">
+                                                <a href="https://github.com/Grew-dev/grew-privacy-policy">
+                            privacy policy
+                        </a>
                     </div>
                 </div>            
             </div> 

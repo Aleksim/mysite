@@ -108,6 +108,12 @@
   font-family: Ubuntu;
 }
 
+.footer-privacy {
+  text-align: center;
+  font-size: 1rem;
+  font-family: Ubuntu;
+  font-weight: 600;
+}
 .icons-center {
   display: flex;
   flex-direction: row;
