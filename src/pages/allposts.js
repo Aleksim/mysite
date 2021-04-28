@@ -9,7 +9,6 @@ const postsPage = ({data}) => {
     return (
   <Layout>
     <SEO title="Blog | All Posts" />
-    <Posts posts={posts} title="All Posts" />
   </Layout>
     )
 }
