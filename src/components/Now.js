@@ -47,7 +47,7 @@ const Now = () => {
                                 🚀 Setting up and leading growth teams from start-up companies to global corporations.                     
                             </p>
                             <p className="skill-text">
-                                🤖 <span><a href="https://github.com/aleksim">Self-learned software developer</a></span> with focus on web (apps and sraping), data engineering and light mobile full-stack apps. 
+                                🤖 <span><a href="https://github.com/aleksim">Self-learned software developer</a></span> with focus on web (apps and scraping), data engineering and light mobile full-stack apps. 
                                 Javascript/React/ReactNative/Gatsbyjs + Python.                    
                             </p>
                             <p className="skill-text">
