@@ -59,7 +59,7 @@ const Now = () => {
                                 Graduated top of my class.
                             </p>
                             <p className="skill-text">
-                                🧐 Hobbyist designer (Photoshop, Illustrator), animator (After Effects), <span><a href="https://youtu.be/wdVjZzIqaB0">video editor</a></span> and drone pilot.
+                                🧐 Designer (Photoshop, Illustrator), <span><a href="https://youtu.be/cwrFGTcYoSM">animator(After Effects)</a></span> and a drone pilot.
                             </p>
                         </div>
                     </div>
