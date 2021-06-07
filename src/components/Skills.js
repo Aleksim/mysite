@@ -75,7 +75,7 @@ const Skills = () => {
                             </p>
                             <p className="now-text2">
                                 <span className="year">Blog post about the future of "growth hacking" written in 2019</span>: 
-                                <p>Based on what I've seen and experienced, I still think that the biggest force multiplier a marketer can have is the ability to code. Read the blog post <span><a href="https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen/">here</a></span>.</p>
+                                <p className="now-text2">Based on what I've seen and experienced, I still think that the biggest force multiplier a marketer can have is the ability to code. Read the blog post <span><a href="https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen/">here</a></span>.</p>
                             </p>
                             <p className="now-text2">
                                 <span className="year">Article in Hackernoon</span>: 
@@ -90,7 +90,7 @@ const Skills = () => {
                                     Coding skills
                                 </h2>
                             </div>
-                            <p className="now-text">
+                            <p className="now-text2">
                                 Should marketer know how to code? Most people say no. However, I've seen with my own eyes, while doing marketing work, how amazingly valuable it can be if you have a marketer who can also code. So, I've learned the coding stuff that is especially useful for a marketer:
                             </p>
                             <p className="now-text2">
