@@ -11,19 +11,16 @@ const Now = () => {
                         <h1 className="now-style">
                         Hello 👋
                         </h1>
-                        <h2 className="now-style3">
-                        I am Aleksi. Marketer, coder and entrepreneur.
-                        </h2>
                         <div className="section-item">
                             <h2 className="section-topic">
                                 Now>>
                             </h2>
                         </div>
                         <p className="now-text">
-                            Co-founder at <span>Grew</span>. We are a team of three guys with complementary skills and experience working with each other. Our main focus is currently on <span><a href="https://www.pointng.io">pointNG</a></span> - Secure Geolocation Detection Without Sending Coordinate Data to 3rd Parties - but we like to do sideprojects as well like: <span><a href="https://www.superlines.io">Superlines</a></span>, <span><a href="https://www.grewai.com">Grew AI</a></span>, <span><a href="https://www.consolechat.io">Consolechat</a></span>, <span><a href="https://www.hacker-ai.com">Hacker AI</a></span>...
+                            Full-time windsurfer looking for the next challenge.
                         </p>
                         <p className="now-text2">
-                            I am also the creator of <span><a href="https://www.growthhackertools.io">Growth Hacker Tools</a></span>.
+                            But always sharpening my marketing / hacking skills and updating <span><a href="https://www.growthhackertools.io">Growth Hacker Tools</a></span>.
                         </p>
 
                         <div className="section-item">
@@ -32,6 +29,9 @@ const Now = () => {
                             </h2>
                         </div>
                         <p className="now-text">
+                            Co-founder at <span>Grew</span> (<span className="year">2020-2021</span>). In 7 months of intensive work we created: <span><a href="https://www.pointng.io">pointNG</a></span>, <span><a href="https://www.superlines.io">Superlines</a></span>, <span><a href="https://www.grewai.com">Grew AI</a></span>, <span><a href="https://www.consolechat.io">Consolechat</a></span>, <span><a href="https://www.hacker-ai.com">Hacker AI</a></span> and lots of other smaller stuff.
+                        </p>
+                        <p className="now-text2">
                             Head of Growth at a <span><a href="https://www.musopia.net">mobile app company</a></span> (<span className="year">2020</span>).
                         </p>
                         <p className="now-text2">
