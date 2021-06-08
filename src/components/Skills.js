@@ -74,12 +74,12 @@ const Skills = () => {
                                     </ul>
                             </p>
                             <p className="now-text2">
-                                <span className="year">Blog post about the "future of growth hacking" written in 2019</span>: 
-                                <span><a href="https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen/"> Check it out</a></span>.
+                                <span className="year">Blog post about the "future of growth hacking"</span>: 
+                                <span><a href="https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen/"> Check it out.</a></span>.
                             </p>
                             <p className="now-text2">
                                 <span className="year">Article in Hackernoon</span>: 
-                                <span><a href="https://hackernoon.com/turning-users-invisible-edge-machine-learning-in-privacy-first-location-detection-k1a34tj"> Check it out</a></span> (we write in symbiosis with Kimmo 😄).
+                                <span><a href="https://hackernoon.com/turning-users-invisible-edge-machine-learning-in-privacy-first-location-detection-k1a34tj"> Check it out.</a></span> (we write in symbiosis with Kimmo 😄).
                                 
                             </p>
                             <p className="now-text2">
