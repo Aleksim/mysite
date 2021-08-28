@@ -20,7 +20,7 @@ const Now = () => {
                         Head of Ecommerce at <span><a href="https://www.lumise.fi">Lumise</a></span>.
                     </p>
                     <p className="now-text2">
-                        But always sharpening my marketing / hacking skills and updating <span><a href="https://www.growthhackertools.io">Growth Hacker Tools</a></span>.
+                        ...and updating <span><a href="https://www.growthhackertools.io">Growth Hacker Tools</a></span>.
                     </p>
 
                     <div className="section-item">
