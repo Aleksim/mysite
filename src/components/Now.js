@@ -6,13 +6,9 @@ const Now = () => {
     return (
         <div className="section">
             <div className="container movetocenter">
-
                 <div className="section-style">
-                    <h1 className="now-style">
-                        Hello 👋
-                    </h1>
                     <div className="section-item">
-                        <h2 className="section-topic">
+                        <h2 className="section-topic-first">
                                 Now>>
                         </h2>
                     </div>
@@ -20,7 +16,7 @@ const Now = () => {
                         Head of Ecommerce at <span><a href="https://www.lumise.fi">Lumise</a></span>.
                     </p>
                     <p className="now-text2">
-                        ...and updating <span><a href="https://www.growthhackertools.io">Growth Hacker Tools</a></span>.
+                        <span style={{fontWeight: "1000"}}>+</span><span><a href="https://www.growthhackertools.io">Growth Hacker Tools</a> when I have time.</span>.
                     </p>
 
                     <div className="section-item">
