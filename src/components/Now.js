@@ -24,7 +24,7 @@ const Now = () => {
                     <p className="now-text">
                         Head of Ecommerce at <span><a href="https://www.lumise.fi">Lumise</a></span> (<span className="year">2021-2022</span>). 
                     </p>
-                    <p className="now-text">
+                    <p className="now-text2">
                         Co-founder at <span>Grew</span> (<span className="year">2020-2021</span>). In 7 months of intensive work we created: <span><a href="https://www.pointng.io">pointNG</a></span>, <span><a href="https://www.superlines.io">Superlines</a></span>, <span><a href="https://www.grewai.com">Grew AI</a></span>, <span><a href="https://www.consolechat.io">Consolechat</a></span>, <span><a href="https://www.hacker-ai.com">Hacker AI</a></span> and lots of other smaller stuff.
                     </p>
                     <p className="now-text2">
