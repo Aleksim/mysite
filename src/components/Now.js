@@ -12,9 +12,6 @@ const Now = () => {
                                 Now>>
                         </h2>
                     </div>
-                    <p className="now-text">
-                        Head of Ecommerce at <span><a href="https://www.lumise.fi">Lumise</a></span>.
-                    </p>
                     <p className="now-text2">
                         <span style={{fontWeight: "1000"}}>+</span><span><a href="https://www.growthhackertools.io">Growth Hacker Tools</a> when I have time.</span>.
                     </p>
@@ -24,6 +21,9 @@ const Now = () => {
                                 Previously>>
                         </h2>
                     </div>
+                    <p className="now-text">
+                        Head of Ecommerce at <span><a href="https://www.lumise.fi">Lumise</a></span> (<span className="year">2021-2022</span>). 
+                    </p>
                     <p className="now-text">
                         Co-founder at <span>Grew</span> (<span className="year">2020-2021</span>). In 7 months of intensive work we created: <span><a href="https://www.pointng.io">pointNG</a></span>, <span><a href="https://www.superlines.io">Superlines</a></span>, <span><a href="https://www.grewai.com">Grew AI</a></span>, <span><a href="https://www.consolechat.io">Consolechat</a></span>, <span><a href="https://www.hacker-ai.com">Hacker AI</a></span> and lots of other smaller stuff.
                     </p>
