@@ -12,52 +12,20 @@ const Post = ({ frontmatter, excerpt }) => {
     
 
     return (
-<div className="card post-item">
-  <div className="card-content">
+<div className="">
+  <div className="">
 
-    <div className="columns">
-      <div className="column">
+      <div className="posts-list">
+        <div className="date-line">
+                {date}               
+        </div>
         <Link to={`/posts/${slug}`}>
           <p className="post-preview-title">
-              {title}
+              <p className='section-topic'>{title}</p>
           </p>
-          </Link>
-          <div className="text-excerpt">
-              <p>{excerpt}</p>
-          </div>
-            
-            <hr  style={{
-              color: '#f1eff5',
-              backgroundColor: '#f1eff5',
-              height: .1,
-              borderColor : '#f1eff5',
-              marginTop:"-5px",
-          }}/>
-
-          <div className="time-date">
-            <div className="time-post">
-              <small>
-                <em>
-                  {readTime} min read                
-                </em>
-              </small>
-            </div>
-            <div className="time-date">
-              <div className="date-line">
-                
-                <MdDateRange size={15} style={{ marginRight:"10px", color:"#000"}}/>
-                
-                <small>
-                  <em>
-                    {date}               
-                  </em>
-                </small>
-              </div>
-            </div>
-          </div>
+        </Link>
 
       </div>
-  </div>
 
   </div>
 </div>

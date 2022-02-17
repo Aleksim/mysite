@@ -1,7 +1,7 @@
 .showborder {
   border-width: 3px;
   border-style: solid;
-  border-color: red;
+  border-color: violet;
 }
 
 .movetocenter {
@@ -13,7 +13,7 @@
 
 /*navbar*/
 .nav-name {
-  color: #fff;
+  color: #000;
   font-family: Ubuntu;
 }
 
@@ -27,7 +27,7 @@
 
 .section-item {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: nowrap;
   justify-content: flex-start;
   align-items: flex-start;
@@ -47,16 +47,23 @@
   transition: background-size 0.25s ease-in;
 }
 
-.section-topic {
-  margin-top: 30px;
-  font-weight: 800;
-  letter-spacing: 0.2em;
-  color: #494b50;
-  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
-  background-repeat: no-repeat;
-  background-size: 100% 0.2em;
-  background-position: 0 88%;
-  transition: background-size 0.25s ease-in;
+/*iso*/
+@media screen and (min-width: 992px) {
+  .section-topic {
+    color: #494b50;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.2em;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+  }
+}
+
+/*pieni*/
+@media screen and (max-width: 992px) {
+  .section-topic {
+    color: #494b50;
+  }
 }
 
 .section-topic2 {
@@ -99,14 +106,15 @@
 }
 
 .now-text {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 .skill-text {
-  font-size: 1.2rem;
+  font-size: 0.9rem;
   margin-bottom: 30px;
 }
 .now-text2 {
-  font-size: 1.2rem;
+  font-family: Inter;
+  font-size: 0.9rem;
   margin-top: 20px;
 }
 
@@ -189,11 +197,10 @@
 }
 .post-preview-title {
   color: #000;
-  font-size: 2rem;
-  font-weight: 800;
-  letter-spacing: -2px;
-  font-family: Ubuntu;
-  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 300;
+  font-family: Inter;
+  text-align: left;
 }
 
 .blog-hero-image {
@@ -216,12 +223,11 @@
 }
 
 .date-line {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  align-items: center;
-  align-content: stretch;
+  margin-right: 10px;
+  font-size: 0.9em;
+  font-weight: 700;
+  font-family: Inter;
+  color: #7f7f7f;
 }
 
 .text-excerpt {
@@ -291,7 +297,6 @@
 
 .list-items {
   margin-top: 20px;
-  height: 50vh;
 }
 
 /*blog*/
@@ -306,7 +311,7 @@
 .text-b {
   line-height: 1.6;
   font-size: 1.2rem;
-  margin-bottom: 13px;
+  margin-bottom: 25px;
 }
 
 .text-a {
@@ -349,10 +354,216 @@
 }
 
 .services-text {
-  font-size: 1.2rem;
+  font-family: Inter;
+  font-size: 0.9rem;
   margin-top: 30px;
 }
 
 .services-section {
   margin-bottom: 100px;
+}
+
+/*uusi saitti*/
+
+.name-styling {
+  font-size: 2em;
+  font-family: Ubuntu;
+  font-weight: 600;
+}
+
+.about {
+  font-family: Inter;
+  font-size: 0.9em;
+}
+
+.about2 {
+  margin-top: 20px;
+  font-family: Inter;
+  font-size: 0.9em;
+}
+
+/*iso*/
+@media screen and (min-width: 992px) {
+  .posts-list {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+  }
+}
+
+/*pieni*/
+@media screen and (max-width: 992px) {
+  .posts-list {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+  }
+}
+
+.blog-styling {
+  font-size: 1.5em;
+  font-family: Ubuntu;
+  font-weight: 600;
+}
+
+.blog-section {
+  padding-top: 10px;
+}
+
+.project-styling {
+  font-size: 1.5em;
+  font-family: Ubuntu;
+  font-weight: 600;
+}
+
+.project-content {
+  margin-top: 10px;
+}
+
+.video-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: stretch;
+}
+
+/*iso*/
+@media screen and (min-width: 992px) {
+  .auto-resizable-iframe {
+    max-width: 620px;
+    margin: auto, auto, auto, auto;
+  }
+
+  .auto-resizable-iframe > div {
+    position: relative;
+    padding-bottom: 60%;
+    height: 0px;
+  }
+
+  .auto-resizable-iframe iframe {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+/*pieni*/
+@media screen and (max-width: 992px) {
+  .auto-resizable-iframe {
+    max-width: 420px;
+    margin: auto, auto, auto, auto;
+  }
+
+  .auto-resizable-iframe > div {
+    position: relative;
+    padding-bottom: 60%;
+    height: 0px;
+  }
+
+  .auto-resizable-iframe iframe {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.project {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.project-headline {
+  margin-bottom: 8px;
+  font-family: Ubuntu;
+  font-weight: 700;
+}
+
+.headline-items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+}
+
+.headline-item {
+  margin-left: 10px;
+}
+
+.headline-item1 {
+  margin-left: 10px;
+}
+
+/*iso*/
+@media screen and (min-width: 992px) {
+  .posts-list {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+  }
+}
+
+/*pieni*/
+@media screen and (max-width: 992px) {
+  .posts-list {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+  }
+}
+
+.nav-logo {
+  color: #4a4a4a;
+  font-size: 1.4rem;
+  font-family: Ubuntu;
+  font-weight: 700;
+}
+
+/*iso*/
+@media screen and (min-width: 992px) {
+  .project-text {
+    max-width: 700px;
+    margin-top: 20px;
+  }
+}
+
+/*pieni*/
+@media screen and (max-width: 992px) {
+  .project-text {
+    margin-top: 20px;
+  }
+}
+
+.buttons {
+  margin-top: 15px;
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
 }

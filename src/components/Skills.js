@@ -38,7 +38,7 @@ const Skills = () => {
                                     Teamwork / leadership skills
                                 </h2>
                             </div>
-                            <p className="now-text">
+                            <p className="now-text2">
                                 <span className="year">Growth team leadership 2016-2020</span>: I have set-up/run formal 'growth teams' in three different organisations and participated in sparring about the topic in many other organisations since 2017. I wrote <span><a href="https://www.linkedin.com/pulse/how-run-growth-team-aleksi-immonen/">this blog</a></span> about the topic in early 2018. The text is still valid eventhough nowadays I tend to have little bit more pragmatic (less idealistic) approach to the job. Growth team doesn't solve all problems, growth team tries to fulfill the potential of the existing product/service.
                             </p>
                             <p className="now-text2">
@@ -52,7 +52,7 @@ const Skills = () => {
                             </p>
                             
                             <div className="section-item">
-                                <h2 className="section-topic">
+                                <h2 className="section-topic2">
                                     Communication skills
                                 </h2>
                             </div>
@@ -95,7 +95,7 @@ const Skills = () => {
                             </p>
                             <p className="now-text2">
                                 <span className="year">Python</span>:
-                                I have basic Python Skills. I can build Scrapy / Splash spiders and crawlers to automatically collect data and make them do work for me. I have also built data connector scripts and various data spinning/engineering scripts (pandas, numpy).
+                                I have basic Python Skills. I can build Scrapy / Splash spiders and crawlers to automatically collect data and make them do work for me. I have also built various data collection scripts to get data from API's and other data spinning/engineering scripts (pandas, numpy).
                             </p>
                             <p className="now-text2">
                                 <span className="year">Javascript</span>: I can do basic stuff with Javascript as well. I've built two simple ReactNative apps using context and hooks. <span><a href="https://github.com/Aleksim">I have some of my projects in Github</a></span>. I've also built one React web app using redux. <span><a href="https://www.growthhackertools.io">Growth Hacker Tools</a></span> is a Gatsby app with dynamic react app embedded into it and buch of scrapers running in the background.
@@ -123,11 +123,6 @@ const Skills = () => {
                                 There are lots of tools in the world. And new tools are published everyday. It is hard to even remember all the tools that I've used, but on the other hand, the ones I remember are probably the ones I am best equipped to use again.
                             </p>
 
-                            <div className="section-item">
-                                <h2 className="section-topic">
-                                    Martech tools / marketing automation
-                                </h2>
-                            </div>
 
 
                             <p className="now-text2">
@@ -145,12 +140,8 @@ const Skills = () => {
                             <p className="now-text2">
                                 <span className="year">Optimizely, VWO, Optimize</span>: Hands on experience + coordination experience.
                             </p>
-                            <div className="section-item">
-                                <h2 className="section-topic">
-                                    Adtech tools / paid media
-                                </h2>
-                            </div>
-                            <p className="now-text">
+
+                            <p className="now-text2">
                                 <span className="year">Google ads</span>: Hands on experience + coordination experience.
                             </p>
                             <p className="now-text2">
@@ -163,12 +154,8 @@ const Skills = () => {
                             <p className="now-text2">
                                 <span className="year">Reddit, snapchat, influencer, celebrity etc etc</span>: I've analyzed dozens of different medias as a potential media investment target.
                             </p>
-                            <div className="section-item">
-                                <h2 className="section-topic">
-                                    Analytics tools
-                                </h2>
-                            </div>
-                            <p className="now-text">
+
+                            <p className="now-text2">
                                 <span className="year">Google analytics</span>: Hands on experience + coordination experience.
                             </p>
                             <p className="now-text2">
@@ -200,14 +187,28 @@ const Skills = () => {
                             <p className="now-text2">
                                 <span className="year">Apptweak</span>: Hands on experience + coordination experience.
                             </p>
-                            <div className="section-item">
-                                <h2 className="section-topic">
-                                    SEO / ASO
-                                </h2>
-                            </div>
-                                <p className="now-text2">
-                                    I understand the basics and the technical side of SEO. Have done SEO-analysis project as a consultant. I am soon releasing more technical SEO videoseries in Youtube. I am also familiar with ASO and have been observing it more from a coordinating role.
-                                </p>
+                             <p className="now-text2">
+                                <span className="year">SEMrush</span>: Hands on experience + coordination experience.
+                            </p>
+                             <p className="now-text2">
+                                <span className="year">Ahrefs</span>: Hands on experience + coordination experience.
+                            </p>
+                            <p className="now-text2">
+                                <span className="year">Custobar</span>: Hands on experience + coordination experience.
+                            </p>
+                            <p className="now-text2">
+                                <span className="year">Google Search Console</span>: Hands on experience + coordination experience.
+                            </p>
+                            <p className="now-text2">
+                                <span className="year">Serverside tag manager</span>: Hands on experience + coordination experience.
+                            </p>
+                            <p className="now-text2">
+                                <span className="year">Yotpo</span>: Hands on experience + coordination experience.
+                            </p>
+                            <p className="now-text2">
+                                <span className="year">BigQuery</span>: Hands on experience + coordination experience.
+                            </p>
+
                         </div>
                     </div>
             </div>

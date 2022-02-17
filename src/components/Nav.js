@@ -1,5 +1,8 @@
 import React, {useState} from 'react'
+import {Link} from 'gatsby'
 import "../pages/mystyles.scss"
+import spruce from '../assets/spruce.jpg'
+
 
 
 const Nav = () => {
@@ -10,11 +13,11 @@ const Nav = () => {
 
     return (
       <nav className="navbar">
-        <div className="container is-max-desktop">
+        <div className="container is-max-desktop ">
           <div className="navbar-brand">
-            <a className="navbar-item nav-name" href="/">
-            Aleksi Immonen
-            </a>
+              <Link to="/">
+                <h1 className='navbar-item nav-logo'>Aleksi Immonen</h1>
+              </Link>
             <a onClick={()=>{
               setBurger(!burger1)  
             }} role="button" className={`navbar-burger ${burger_value}`}aria-label="menu" aria-expanded="false">
@@ -28,8 +31,8 @@ const Nav = () => {
                 <a className="navbar-item nav-item" href="/posts">
                     Blog
                 </a>
-                <a className="navbar-item nav-item" href="/services">
-                    Services
+                <a className="navbar-item nav-item" href="/skills">
+                    Skills
                 </a>
             </div>
           </div>

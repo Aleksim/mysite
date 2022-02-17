@@ -40,7 +40,7 @@ module.exports = {
           {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [ "Ubuntu", "Lora", "Permanent Marker"],
+        fonts: [ "Ubuntu", "Lora", "Permanent Marker", "Inter"],
         display: "swap",
       },
     },
