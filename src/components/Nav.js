@@ -32,7 +32,7 @@ const Nav = () => {
                     Blog
                 </a>
                 <a className="navbar-item nav-item" href="/skills">
-                    Skills
+                    Skills and Experience
                 </a>
             </div>
           </div>
