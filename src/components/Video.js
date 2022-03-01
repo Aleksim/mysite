@@ -1,4 +1,5 @@
 import React from "react"
+
 const Video = ({ videoSrcURL, videoTitle, ...props }) => (
   <div className="auto-resizable-iframe ">
     <div>

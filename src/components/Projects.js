@@ -1,5 +1,5 @@
 import React from 'react'
-import Video from "../components/video"
+import Video from "./Video"
 import ght from '../assets/test4.gif'
 import {FaGithub, FaChevronRight, FaRegNewspaper} from "react-icons/fa"
 
