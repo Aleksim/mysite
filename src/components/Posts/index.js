@@ -6,7 +6,9 @@ const Posts = ({posts, title}) => {
     return (
         <div className="section blog-section">
             <div className="container is-max-desktop">
-                <h2 className='blog-styling'>Blog Posts</h2>
+                <div className='section-item'>
+                <h2 className='section-topic2'>Blog Posts</h2>
+                </div>
                 <article className="list-items">
                     {posts.map(post=>{
                         return <Post key={post.id} {...post}  />

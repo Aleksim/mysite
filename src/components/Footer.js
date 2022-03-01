@@ -7,9 +7,7 @@ const Footer = () => {
         <footer className="footer footer-style">
             <div className="content">
                 <div className="icons-footer">
-                    <h2 className="footer-connect">
-                        Connect
-                    </h2>
+
                     <div className="icons-center">
                         <a href="https://twitter.com/aleksimmonen">
                             <FaTwitter size={30} style={{marginRight:"25px", color:"#1DA1F2"}}/>
@@ -23,8 +21,8 @@ const Footer = () => {
         
                     </div>
                     <div className="footer-privacy">
-                                                <a href="https://github.com/Grew-dev/grew-privacy-policy">
-                            privacy policy
+                        <a href="https://youtu.be/Zmt797BVZkA">
+                            Slava Ukraini! 
                         </a>
                     </div>
                 </div>            

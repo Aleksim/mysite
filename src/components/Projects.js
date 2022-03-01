@@ -8,9 +8,11 @@ const Projects = () => {
   return (
         <div className="section blog-section">
             <div className="container is-max-desktop">
-                <h2 className='project-styling'>Projects</h2>
+                <div className='section-item'>
+                <h2 className='section-topic2'>Projects</h2>
+                </div>
                 <div className='project-content'>
-                    <p>Here are some projects that I've been working on:</p>
+                    <p>Here are some projects that I've been working on lately:</p>
                     <div>
                         <div className='project card'>
                               <div className="card-content">
@@ -31,7 +33,7 @@ const Projects = () => {
                             <a target="_blank" href='https://www.growthhackertools.io/'>
                             <p class="buttons">
                             <button class="button">
-                            <FaChevronRight size={30} style={{marginRight:"25px", color:"#000"}}/>
+                            <FaChevronRight size={30} style={{marginRight:"25px", color:"#1cdcf2"}}/>
                             <span>Visit the site</span>
                             </button>
                             </p>
@@ -57,7 +59,7 @@ const Projects = () => {
                             <a target="_blank" href='https://www.superlines.io/'>
                             <p class="buttons">
                             <button class="button">
-                            <FaChevronRight size={30} style={{marginRight:"25px", color:"#000"}}/>
+                            <FaChevronRight size={30} style={{marginRight:"25px", color:"#1cdcf2"}}/>
                             <span>Visit the site</span>
                             </button>
                             </p>
@@ -76,7 +78,7 @@ const Projects = () => {
                             <a target="_blank" href='https://www.grewai.com/'> 
                             <p class="buttons">
                             <button class="button">
-                            <FaChevronRight size={30} style={{marginRight:"25px", color:"#000"}}/>
+                            <FaChevronRight size={30} style={{marginRight:"25px", color:"#1cdcf2"}}/>
                             <span>Visit the site</span>
                             </button>
                             </p>
@@ -94,7 +96,7 @@ const Projects = () => {
                             <a target="_blank" href='https://www.hs.fi/kulttuuri/art-2000005751573.html'>
                             <p class="buttons">
                             <button class="button">
-                            <FaChevronRight size={30} style={{marginRight:"25px", color:"#000"}}/>
+                            <FaChevronRight size={30} style={{marginRight:"25px", color:"#1cdcf2"}}/>
                             <span>Read about it in the news</span>
                            
                             </button>
