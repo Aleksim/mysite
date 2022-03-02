@@ -132,7 +132,10 @@ const Skills = () => {
                                 <li className='pdf-download'>
                                     <div className='product-skills'>
                                         <p className='experience-title'>
-                                            <span><FaRobot className='skills-icon' size={16} />Grew (2021-2020)</span> 
+                                            <span className='table-contents'>
+                                                <FaRobot className='skills-icon' size={16} />Grew 2021-2020
+                                            </span> 
+                                            
                                         </p>
                                         <p>
                                             Grew was a company that me and two of my friends formed when we got<span className='teamwork-emphasis'><a href='https://www.businessfinland.fi/en/for-finnish-customers/services/funding/tempo-funding' target='_blank'> Tempo-funding<FaExternalLinkAlt className='external-link' size={10} /></a></span> for our PointNG innovation (privacy-first alternative for detecting user location in the browser without sending coordinate-data to 3rd parties). The idea for PointNG was born from our participation to a global Covid-19 hackathon where we created the 3sicksty mobile and web apps. Our web app <span className='teamwork-emphasis'><a href='https://youtu.be/wdVjZzIqaB0' target='_blank'>presentation video<FaExternalLinkAlt className='external-link' size={10} /></a></span> got viral at the hackathon and we actually negotiated with the government of Nigeria officials on developing the 3sicksty service further with them.
@@ -169,8 +172,9 @@ const Skills = () => {
 
                                     </div>
                                     <div className='selaamo-skills'>
+                    
                                     <p className='experience-title'>
-                                        <span><FaTree className='skills-icon' size={16} />Selaamo (2019-2018)</span> 
+                                        <span className='table-contents'><FaTree className='skills-icon' size={16} />Selaamo 2019-2018</span> 
                                     </p>
                                     <p className='teamwork-content'>
                                         Selaamo was a share economy platform for used book sales. Our vision was to turn peoples' bookshelves into 'minibookstores'. It was a company that me and three of my friends formed as a side project while we all had full-time jobs. I came up with the idea and gathered the team.
@@ -217,7 +221,7 @@ const Skills = () => {
                                     <div className='whispr-skills'>
 
                                     <p className='experience-title'>
-                                        <span><FaComments className='skills-icon' size={16} />Whispr (2014-2013)</span> 
+                                        <span className='table-contents'><FaComments className='skills-icon' size={16} />Whispr 2014-2013</span> 
                                     </p>
                                     <p className='teamwork-content'>
                                          Whispr was an anonymous location based communication mobile app. Exactly like the nowadays popular Jodel app. Whispr was born when I was in the university of Turku and I really wanted to get into the start-up and software game. So one night after I became home from a student party I came up with the idea: anonymous location based chat. I went to a local hackathon few weeks later and met Timo and Larisa. We liked each others jokes and got along very well. After some time of thinking about what could we build, I pitched Whispr to them. 
