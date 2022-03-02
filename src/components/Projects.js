@@ -34,7 +34,7 @@ const Projects = () => {
                             <p class="buttons">
                             <button class="button">
                             <FaChevronRight size={30} style={{marginRight:"25px", color:"#1cdcf2"}}/>
-                            <span>Visit the site</span>
+                            <span className='button-text'>Visit the site</span>
                             </button>
                             </p>
                             </a>
