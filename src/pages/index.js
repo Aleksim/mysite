@@ -10,7 +10,7 @@ const Home = ({data}) =>{
   const {allMdx:{nodes:posts}}=data
   return(
     <Layout>
-      <SEO title="Alexi's site"/>
+      <SEO title="Aleksi Immonen"/>
       <Now/>
       <Posts posts={posts} title="recently published" />
       <Projects/>
