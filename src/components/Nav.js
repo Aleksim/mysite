@@ -34,6 +34,9 @@ const Nav = () => {
                 <a className="navbar-item nav-item" href="/skills">
                     Skills and Experience
                 </a>
+                  <a className="navbar-item nav-item" href="/random">
+                    Random Stuff
+                </a>
             </div>
           </div>
         </div>
