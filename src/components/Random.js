@@ -25,7 +25,7 @@ const Random = () => {
                             </div>
                             </div>
                         </div>
-                        <div className='project card'>
+                        {/* <div className='project card'>
                               <div className="card-content">
                             <div className='headline-items'>
                                 <h2 className='project-headline'>"Let's do weird ads turning memes into animations.."</h2>
@@ -34,8 +34,8 @@ const Random = () => {
                             <div className='buttons'>
                             </div>
                             </div>
-                        </div>
-                        <div className='project card'>
+                        </div> */}
+                        {/* <div className='project card'>
                               <div className="card-content">
                             <div className='headline-items'>
                                 <h2 className='project-headline'>Best CPA ever xD</h2>
@@ -44,8 +44,8 @@ const Random = () => {
                             <div className='buttons'>
                             </div>
                             </div>
-                        </div>
-                        <div className='project card'>
+                        </div> */}
+                        {/* <div className='project card'>
                               <div className="card-content">
                             <div className='headline-items'>
                                 <h2 className='project-headline'>I don't even know what to say about this..</h2>
@@ -54,7 +54,7 @@ const Random = () => {
                             <div className='buttons'>
                             </div>
                             </div>
-                        </div>
+                        </div> */}
                         {/* <div className='project card'>
                             <div className="card-content">
 
