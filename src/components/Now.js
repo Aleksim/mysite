@@ -11,7 +11,7 @@ const Now = () => {
                     <div className="section-item">
 
     
-                            <p className='about'>My name is Aleksi Immonen and I am a digital innovator, product owner, early-stage-growth specialist, former martech-consultant...<span className='teamwork-emphasis'>I can wear many hats</span>.</p>
+                            <p className='about'>My name is Aleksi Immonen and I am a digital innovator, product owner, early-stage-growth specialist, former martech-consultant, growth hacker...<span className='teamwork-emphasis'>I can wear many hats</span>.</p>
                             <p className='about2'>I'm from Helsinki, Finland and currently looking for my next position.</p>
 
                             <p className='about2'>On this site you can read about my skills, blog posts and about the projects I have been working on! </p>
