@@ -12,7 +12,7 @@ const Random = () => {
                 <h2 className='section-topic2'>Random Stuff</h2>
                 </div>
                 <div className='project-content'>
-                    <p>I like to do all kinds of random creative things. Just for fun :)</p>
+                    <p>I like to do all kinds of creative stuff, just for fun.</p>
                     
                     <div>
                         <div className='project card'>
