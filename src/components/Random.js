@@ -1,28 +1,28 @@
 import React from 'react'
 import Video from "./Video"
 import ght from '../assets/test4.gif'
-import {FaGithub, FaChevronRight, FaRegNewspaper} from "react-icons/fa"
+import { FaGithub, FaChevronRight, FaRegNewspaper } from "react-icons/fa"
 
 
 const Random = () => {
-  return (
+    return (
         <div className="section blog-section">
             <div className="container is-max-desktop">
                 <div className='section-item'>
-                <h2 className='section-topic2'>Random Stuff</h2>
+                    <h2 className='section-topic2'>Random Stuff</h2>
                 </div>
                 <div className='project-content'>
-                    <p>I like to do all kinds of creative stuff, just for fun.</p>
-                    
+                    <p>I like to do all kinds of creative stuff.</p>
+
                     <div>
                         <div className='project card'>
-                              <div className="card-content">
-                            <div className='headline-items'>
-                                <h2 className='project-headline'>Short film: "The Little Place I Call Home" </h2>
-                            </div>
-                            <Video videoSrcURL='https://www.youtube.com/embed/vCGtV-dFAb0' videoTitle="YouTube video player"/>
-                            <div className='buttons'>
-                            </div>
+                            <div className="card-content">
+                                <div className='headline-items'>
+                                    <h2 className='project-headline'>Short film: "The Little Place I Call Home" </h2>
+                                </div>
+                                <Video videoSrcURL='https://www.youtube.com/embed/vCGtV-dFAb0' videoTitle="YouTube video player" />
+                                <div className='buttons'>
+                                </div>
                             </div>
                         </div>
                         {/* <div className='project card'>
@@ -117,7 +117,7 @@ const Random = () => {
                 </div>
             </div>
         </div>
-  )
+    )
 }
 
 export default Random
