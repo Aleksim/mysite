@@ -125,28 +125,28 @@ const Skills = () => {
                             </h2>
                         </div>
                             <p className='teamwork-skills'>
-                                "Growth hacking" philosophy/mentality and skills have been an inspiration and a goal throughout my professional journey.
+                                "Growth hacking" philosophy/mentality and skills have been an inspiration and a goal throughout my professional journey. 
                             </p>
                             <p className='teamwork-skills'>
-                                <span className='teamwork-emphasis'>But isn't "Growth hacking" just a buzzword to repackage sales and marketing?</span>
+                                <span className='teamwork-emphasis'>But isn't "Growth hacking" just a 2019 buzzword to repackage sales and marketing?</span>
                             </p>
                             <p className='teamwork-skills'>
                                 Yes, and no.
                             </p>
                             <p className='teamwork-skills'>
-                                Often when people talk about growth hacking they are trying to sell something. Typically paid advertising or inspiration. However, there is also the original scene from where the term incepted. That is what I originally got excited about and that is what I talk about when I talk about growth hacking.
+                                Often when people talk about growth hacking they are just trying to repackage sales and marketing and turn it into something more exciting. However, there is also the original scene from where the term incepted. That is what I originally got excited about and that is what I talk about when I talk about growth hacking.
                             </p>
                             <p className='teamwork-skills'>
-                                <span className='teamwork-emphasis'>For me "growth hacking" is about a skillset and a mindset.</span> It is about being able to combine technology, creativity and customer/market/strategy understanding seamlessly. <span>Growth hackers can perceive opportunities and execute ideas that are out of reach for most people</span>. Growth hackers can perceive them due to their technical capabilities (typically software engineering), domain knowledge and due to their natural creativity and mandate/space/necessity to find/leverage these opportunities. It is no wonder that growth hacking was born from early web 2.0 software engineer entrepreneurs. They had the skills and the mindset.
+                                <span className='teamwork-emphasis'>For me "growth hacking" is about a skillset and a mindset.</span> It is about being able to combine technology, creativity and customer/market/strategy understanding seamlessly. <span>Growth hackers can perceive opportunities and execute ideas that are out of reach for most people</span>. Growth hackers can perceive them due to their technical capabilities (typically software engineering), domain knowledge and due to their natural creativity and mandate/space/necessity to find/leverage these opportunities. It is no wonder that growth hacking was born from early web 2.0 software engineer entrepreneurs. They had the skills, the necessity and the mindset.
                             </p>
                             <p className='teamwork-skills'>
-                                Growth hacking is not what you find when you write "best growth hacks in 2022" to Google search. It not what you get from a start-up guru's "best practices for ecommerce" powerpoint slides.
+                                Growth hacking is not what you find when you write "best growth hack ideas in 2022" to Google search. It not what you get from a start-up guru's "best practices for ecommerce" powerpoint slides.
                             </p>
                             <p className='teamwork-skills'>
                                 <span className='teamwork-emphasis'>Growth hacking is about novel, context specific solutions to important business problems.</span> 
                             </p>
                             <p className='teamwork-skills'>
-                                You'll get a growth hacker when you arm a "wildly creative person" with "boring coding skills" and give them clear goals. Domain knowledge is also generally preferrable, but out of context knowledge might be useful as well. I wrote this blog post in 2019 about the <span className='teamwork-emphasis'><a target='_blank' href='https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen' >ideal skill profile of a growth hacker</a></span>.
+                                You'll get a growth hacker when you arm a "wildly creative person" with "boring coding skills" and give them clear goals. Domain knowledge is also useful, but outside the box thinking can be useful as well. I wrote this blog post in 2019 about the <span className='teamwork-emphasis'><a target='_blank' href='https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen' >ideal skill profile of a growth hacker</a></span>.
                             </p>
                             <p className='teamwork-skills'>
                                <span className='teamwork-emphasis'>But Henry Ford, Steve Jobs and others where very creative and successful before no one had ever heard of growth hacking. Doesn't that prove that growth hacking is just another buzzword?</span> 
@@ -161,8 +161,11 @@ const Skills = () => {
                                 I have been in a growth hacker role, with this mindset, working as a consultant 2016-2019 in large nordic B2C and B2B companies, as a startup-founder 2018-2021 and in startups/small companies 2020-2022. My skills have also evolved through the years :).
                             </p>
                             <p className='teamwork-skills'>
+                                <span className='teamwork-emphasis'>So..are you a growth hacker then?</span>
                             </p>
-
+                            <p className='teamwork-skills'>
+                                I think it is useful to know how to code and look things through the growth hacking framework. It is also useful to use other frameworks as well.
+                            </p>
                         <div className="section-item">
                             <h2 className="section-topic2">
                                 3. Product leadership
