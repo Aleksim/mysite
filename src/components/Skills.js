@@ -39,22 +39,25 @@ const Skills = () => {
                                 1. Education
                             </p>
                             <p className='teamwork-content'>
-                                2. Product leadership
+                                2. Growth Hacking
                             </p>
                             <p className='teamwork-content'>
-                                3. Growth team leadership
+                                3. Product leadership
                             </p>
                             <p className='teamwork-content'>
-                                4. Ecommerce leadership
+                                4. Growth team leadership
                             </p>
                             <p className='teamwork-content'>
-                                5. Communications skills
+                                5. Ecommerce leadership
                             </p>
                             <p className='teamwork-content'>
-                                6. Coding skills
+                                6. Communications skills
                             </p>
                             <p className='teamwork-content'>
-                                7. Tools
+                                7. Coding skills
+                            </p>
+                            <p className='teamwork-content'>
+                                8. Tools
                             </p>
                         </div>
 
@@ -118,7 +121,52 @@ const Skills = () => {
                         </div>
                         <div className="section-item">
                             <h2 className="section-topic2">
-                                2. Product leadership
+                                2. Growth Hacking
+                            </h2>
+                        </div>
+                            <p className='teamwork-skills'>
+                                "Growth hacking" philosophy/mentality and skills have been an inspiration and a goal throughout my professional journey.
+                            </p>
+                            <p className='teamwork-skills'>
+                                <span className='teamwork-emphasis'>But isn't "Growth hacking" just a buzzword to repackage sales and marketing?</span>
+                            </p>
+                            <p className='teamwork-skills'>
+                                Yes, and no.
+                            </p>
+                            <p className='teamwork-skills'>
+                                Often when people talk about growth hacking they are trying to sell something. Typically paid advertising or inspiration. However, there is also the original scene from where the term incepted. That is what I originally got excited about and that is what I talk about when I talk about growth hacking.
+                            </p>
+                            <p className='teamwork-skills'>
+                                <span className='teamwork-emphasis'>For me "growth hacking" is about a skillset and a mindset.</span> It is about being able to combine technology, creativity and customer/market/strategy understanding seamlessly. <span>Growth hackers can perceive opportunities and execute ideas that are out of reach for most people</span>. Growth hackers can perceive them due to their technical capabilities (typically software engineering) and due to their natural creativity and mandate/space/necessity to find/leverage these opportunities. It is no wonder that growth hacking was born from early web 2.0 software engineer entrepreneurs.
+                            </p>
+                            <p className='teamwork-skills'>
+                                Growth hacking is not what you find when you write "best growth hacks in 2022" to Google search. It not what you get from a start-up guru's "best practices for ecommerce" powerpoint slides.
+                            </p>
+                            <p className='teamwork-skills'>
+                                <span className='teamwork-emphasis'>Growth hacking is about novel, context specific solutions to important business problems.</span> 
+                            </p>
+                            <p className='teamwork-skills'>
+                                You'll get a growth hacker when you arm a "wildly creative person" with "boring coding skills" and give them clear goals. Domain knowledge is also generally preferrable, but out of context knowledge might be useful as well. I wrote this blog post in 2019 about the <span className='teamwork-emphasis'><a target='_blank' href='https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen' >ideal skill profile of a growth hacker</a></span>.
+                            </p>
+                            <p className='teamwork-skills'>
+                               <span className='teamwork-emphasis'>But Henry Ford, Steve Jobs and others where very creative and successful before no one had ever heard of growth hacking. Doesn't that prove that growth hacking is just another buzzword?</span> 
+                            </p>
+                            <p className='teamwork-skills'>
+                                Yes, kind of. Novel, context specific solutions to important business problems have existed before the term "growth hacking" was invented. These solutions are typically the side product of the work of very smart and capable entrepreneurs. 
+                            </p>
+                            <p className='teamwork-skills'>
+                                But we are now living in a world where you can EASILY create algorithms to recognise shapes, unleash artificial intelligence like GPT-3 do human tasks, create a bot armies and basically bend and modify the space and time in the digital universe according to your will like a magician. <span className='teamwork-emphasis'>That is, if you have the skills and creativity. </span> 
+                            </p>
+                            <p className='teamwork-skills'>
+                                I have been in a growth hacker role, with this mindset, working as a consultant 2016-2019 in large nordic B2C and B2B companies, as a startup-founder 2018-2021 and in startups/small companies 2020-2022.
+                            </p>
+                            <p className='teamwork-skills'>
+                                All environments being different, but also similar in their fundamental challenges.
+                            </p>
+
+                        <div className="section-item">
+                            <h2 className="section-topic2">
+                                3. Product leadership
                             </h2>
                         </div>
 
@@ -239,7 +287,7 @@ const Skills = () => {
                         </div>
                         <div className="section-item">
                             <h2 className="section-topic2">
-                                3. Growth team leadership
+                                4. Growth team leadership
                             </h2>
                         </div>
 
@@ -275,7 +323,7 @@ const Skills = () => {
 
                         <div className="section-item">
                             <h2 className="section-topic2">
-                                4. Ecommerce leadership
+                                5. Ecommerce leadership
                             </h2>
                         </div>
                         <div>
@@ -309,7 +357,7 @@ const Skills = () => {
 
                         <div className="section-item">
                             <h2 className="section-topic2">
-                                5. Communication skills
+                                6. Communication skills
                             </h2>
                         </div>
                         <p className="teamwork-content">
@@ -319,7 +367,7 @@ const Skills = () => {
                         
                         <div className="section-item">
                             <h2 className="section-topic2">
-                                6. Coding skills
+                                7. Coding skills
                             </h2>
                         </div>
                         <p className="teamwork-content">
@@ -347,7 +395,7 @@ const Skills = () => {
 
                         <div className="section-item">
                             <h2 className="section-topic2">
-                                7. Tools
+                                8. Tools
                             </h2>
                         </div>
 
