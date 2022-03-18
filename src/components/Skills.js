@@ -149,7 +149,7 @@ const Skills = () => {
                                 You'll get a growth hacker when you arm a "wildly creative person" with "boring coding skills" and give them clear goals. Domain knowledge is also useful, but outside the box thinking can be useful as well. I wrote this blog post in 2019 about the <span className='teamwork-emphasis'><a target='_blank' href='https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen' >ideal skill profile of a growth hacker</a></span>.
                             </p>
                             <p className='teamwork-skills'>
-                               <span className='teamwork-emphasis'>But Henry Ford, Steve Jobs and others where very creative and successful before no one had ever heard of growth hacking. Doesn't that prove that growth hacking is just another buzzword?</span> 
+                               <span className='teamwork-emphasis'>But Henry Ford, Steve Jobs and others were very creative and successful before no one had ever heard of growth hacking. Doesn't that prove that growth hacking is just another buzzword?</span> 
                             </p>
                             <p className='teamwork-skills'>
                                 Yes, kind of. Novel, context specific solutions to important business problems have existed before the term "growth hacking" was invented. These solutions are typically the side product of the work of very smart and capable entrepreneurs. 
