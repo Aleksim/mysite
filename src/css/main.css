@@ -25,14 +25,31 @@
   margin-bottom: 70px;
 }
 
-.section-item {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  align-items: flex-start;
-  align-content: stretch;
-  margin-bottom: 15px;
+/*iso*/
+@media screen and (min-width: 992px) {
+  .section-item {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: stretch;
+    margin-bottom: 15px;
+    width: 90%;
+  }
+}
+
+/*pieni*/
+@media screen and (max-width: 992px) {
+  .section-item {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: stretch;
+    margin-bottom: 15px;
+  }
 }
 
 .section-topic-first {
