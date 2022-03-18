@@ -137,7 +137,7 @@ const Skills = () => {
                                 Often when people talk about growth hacking they are trying to sell something. Typically paid advertising or inspiration. However, there is also the original scene from where the term incepted. That is what I originally got excited about and that is what I talk about when I talk about growth hacking.
                             </p>
                             <p className='teamwork-skills'>
-                                <span className='teamwork-emphasis'>For me "growth hacking" is about a skillset and a mindset.</span> It is about being able to combine technology, creativity and customer/market/strategy understanding seamlessly. <span>Growth hackers can perceive opportunities and execute ideas that are out of reach for most people</span>. Growth hackers can perceive them due to their technical capabilities (typically software engineering) and due to their natural creativity and mandate/space/necessity to find/leverage these opportunities. It is no wonder that growth hacking was born from early web 2.0 software engineer entrepreneurs.
+                                <span className='teamwork-emphasis'>For me "growth hacking" is about a skillset and a mindset.</span> It is about being able to combine technology, creativity and customer/market/strategy understanding seamlessly. <span>Growth hackers can perceive opportunities and execute ideas that are out of reach for most people</span>. Growth hackers can perceive them due to their technical capabilities (typically software engineering), domain knowledge and due to their natural creativity and mandate/space/necessity to find/leverage these opportunities. It is no wonder that growth hacking was born from early web 2.0 software engineer entrepreneurs. They had the skills and the mindset.
                             </p>
                             <p className='teamwork-skills'>
                                 Growth hacking is not what you find when you write "best growth hacks in 2022" to Google search. It not what you get from a start-up guru's "best practices for ecommerce" powerpoint slides.
@@ -158,10 +158,9 @@ const Skills = () => {
                                 But we are now living in a world where you can EASILY create algorithms to recognise shapes, unleash artificial intelligence like GPT-3 do human tasks, create a bot armies and basically bend and modify the space and time in the digital universe according to your will like a magician. <span className='teamwork-emphasis'>That is, if you have the skills and creativity. </span> 
                             </p>
                             <p className='teamwork-skills'>
-                                I have been in a growth hacker role, with this mindset, working as a consultant 2016-2019 in large nordic B2C and B2B companies, as a startup-founder 2018-2021 and in startups/small companies 2020-2022.
+                                I have been in a growth hacker role, with this mindset, working as a consultant 2016-2019 in large nordic B2C and B2B companies, as a startup-founder 2018-2021 and in startups/small companies 2020-2022. My skills have also evolved through the years :).
                             </p>
                             <p className='teamwork-skills'>
-                                All environments being different, but also similar in their fundamental challenges.
                             </p>
 
                         <div className="section-item">
