@@ -28,12 +28,13 @@ const Nav = () => {
             </div>
           <div className={`navbar-menu ${burger_value}`}>
             <div className="navbar-end">
-                <a className="navbar-item nav-item" href="/posts">
-                    Blog
-                </a>
                 <a className="navbar-item nav-item" href="/skills">
                     Skills and Experience
                 </a>
+                {/* <a className="navbar-item nav-item" href="/posts">
+                    Blog
+                </a> */}
+
                   <a className="navbar-item nav-item" href="/random">
                     Random Stuff
                 </a>
