@@ -440,10 +440,23 @@
   font-weight: 600;
 }
 
-.project-content {
-  margin-top: 10px;
-  font-family: Inter;
-  font-size: 0.9em;
+/*iso*/
+@media screen and (min-width: 992px) {
+  .project-content {
+    margin-top: 10px;
+    font-family: Inter;
+    font-size: 0.9em;
+    width: 80%;
+  }
+}
+
+/*pieni*/
+@media screen and (max-width: 992px) {
+  .project-content {
+    margin-top: 10px;
+    font-family: Inter;
+    font-size: 0.9em;
+  }
 }
 
 .video-container {
