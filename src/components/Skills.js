@@ -146,7 +146,7 @@ const Skills = () => {
                                 <span className='teamwork-emphasis'>Growth hacking is about novel, context specific solutions to important business problems.</span> 
                             </p>
                             <p className='teamwork-skills'>
-                                You'll get a growth hacker when you arm a "wildly creative person" with "boring coding skills" and give them clear goals. Domain knowledge is also useful, but outside the box thinking can be useful as well. I wrote this blog post in 2019 about the <span className='teamwork-emphasis'><a target='_blank' href='https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen' >ideal skill profile of a growth hacker</a></span>.
+                                You'll get a growth hacker when you arm a "wildly creative person" with "boring coding skills" and customer understanding (+smart goals). Domain knowledge is also useful, but outside the box thinking can be useful as well. I wrote this blog post in 2019 about the <span className='teamwork-emphasis'><a target='_blank' href='https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen' >ideal skill profile of a growth hacker</a></span>.
                             </p>
                             <p className='teamwork-skills'>
                                <span className='teamwork-emphasis'>But Henry Ford, Steve Jobs and others were very creative and successful before no one had ever heard of growth hacking. Doesn't that prove that growth hacking is just another buzzword?</span> 
@@ -164,7 +164,7 @@ const Skills = () => {
                                 <span className='teamwork-emphasis'>So..are you a growth hacker then?</span>
                             </p>
                             <p className='teamwork-skills'>
-                                I think it is useful to know how to code and look things through the growth hacking framework. It is also useful to use other frameworks as well.
+                                I think it is useful to know how to code as a growth/product person and look things through the growth hacking framework. Other frameworks can be very useful as well.
                             </p>
                         <div className="section-item">
                             <h2 className="section-topic2">
