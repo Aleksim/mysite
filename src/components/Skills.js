@@ -4,6 +4,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import { FaCircle, FaExternalLinkAlt, FaCloudDownloadAlt,FaGraduationCap, FaTrophy, FaBook, FaRobot, FaTree, FaComments  } from "react-icons/fa"
 import Video from '../components/Video'
 
+
 const Skills = () => {
 
     const data = useStaticQuery(graphql`
@@ -134,7 +135,7 @@ const Skills = () => {
                                 Yes, and no.
                             </p>
                             <p className='teamwork-skills'>
-                                Often when people talk about growth hacking they are just trying to repackage sales and marketing and turn it into something more exciting. However, there is also the original scene from where the term incepted. That is what I originally got excited about and that is what I talk about when I talk about growth hacking.
+                                Often when people talk about growth hacking they are just trying to repackage digital sales and -marketing and turn it into something more exciting. However, there is also the original scene from where the term incepted. That is what I originally got excited about and that is what I talk about when I talk about growth hacking.
                             </p>
                             <p className='teamwork-skills'>
                                 <span className='teamwork-emphasis'>For me "growth hacking" is about a skillset and a mindset.</span> It is about being able to combine technology, creativity and customer/market/strategy understanding seamlessly. <span>Growth hackers can perceive opportunities and execute ideas that are out of reach for most people</span>. Growth hackers can perceive them due to their technical capabilities (typically software engineering), domain knowledge and due to their natural creativity and mandate/space/necessity to find/leverage these opportunities. It is no wonder that growth hacking was born from early web 2.0 software engineer entrepreneurs. They had the skills, the necessity and the mindset.
@@ -143,7 +144,7 @@ const Skills = () => {
                                 Growth hacking is not what you find when you write "best growth hack ideas in 2022" to Google search. It not what you get from a start-up guru's "best practices for ecommerce" powerpoint slides.
                             </p>
                             <p className='teamwork-skills'>
-                                <span className='teamwork-emphasis'>Growth hacking is about novel, context specific solutions to important business problems.</span> 
+                                <span className='teamwork-emphasis'>Growth hacking is about novel, context specific solutions to important business problems.</span> Whereas following best practices and optimizing the funnel is just digital marketing.
                             </p>
                             <p className='teamwork-skills'>
                                 You'll get a growth hacker when you arm a "wildly creative person" with "boring coding skills" and customer understanding (+smart goals). Domain knowledge is also useful, but outside the box thinking can be useful as well. I wrote this blog post in 2019 about the <span className='teamwork-emphasis'><a target='_blank' href='https://www.linkedin.com/pulse/future-growth-hacking-aleksi-immonen' >ideal skill profile of a growth hacker</a></span>.

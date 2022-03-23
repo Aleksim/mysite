@@ -20,6 +20,13 @@ module.exports = {
     },
 
     {
+      resolve: "gatsby-plugin-anchor-links",
+      options: {
+        offset: -100
+      }
+    },
+
+    {
       resolve: `gatsby-plugin-mdx`,
       options: {
         gatsbyRemarkPlugins: [{ resolve: 'gatsby-remark-images' }],
