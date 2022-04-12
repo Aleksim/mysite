@@ -326,7 +326,8 @@
 
 .text-b {
   line-height: 1.6;
-  font-size: 1.2rem;
+  font-family: Inter;
+  font-size: 0.9em;
   margin-bottom: 25px;
 }
 
@@ -727,4 +728,15 @@
 .store_rentle {
   margin-top: 50px;
   height: 150vh;
+}
+
+.education-bullet-blog {
+  margin-left: 3px;
+  margin-right: 10px;
+
+  color: hsl(186, 89%, 53%);
+}
+
+.blog-list {
+  margin-bottom: 20px;
 }
