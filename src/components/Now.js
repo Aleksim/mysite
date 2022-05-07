@@ -6,7 +6,7 @@ import "../css/main.css"
 const Now = () => {
     return (
         <div className="section">
-            <div className="container is-max-desktop">
+            <div className="container minus is-max-desktop">
                 <div className="section-style">
                     <div className="section-item">
                             <p className='about2'>Currently working as a <span className='teamwork-emphasis'>Performance Marketing Manager at <span><a target="_blank" href="https://www.rentle.io">Rentle</a><FaRecycle size={12} style={{marginLeft:"3px", marginTop:"", color:"#1DA1F2"}}/></span></span>.</p>
