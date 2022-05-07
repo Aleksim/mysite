@@ -27,7 +27,7 @@ const Skills = () => {
                 <div className="section-style">
 
                         <div className="section-item">
-                            <h2 className="section-topic2">
+                            <h2 className="section-topic3">
                                 Skills and experience
                             </h2>
                             <p className='teamwork-content'>
@@ -65,7 +65,7 @@ const Skills = () => {
                     <div className="skills">
 
                         <div className="section-item">
-                            <h2 className="section-topic2">
+                            <h2 className="section-topic3">
                                 1. Education
                             </h2>
 
@@ -121,7 +121,7 @@ const Skills = () => {
 
                         </div>
                         <div className="section-item">
-                            <h2 className="section-topic2">
+                            <h2 className="section-topic3">
                                 2. Growth Hacking
                             </h2>
                         </div>
@@ -168,7 +168,7 @@ const Skills = () => {
                                 I think it is useful to know how to code as a growth/product person and look things through the growth hacking framework. Other frameworks can be very useful as well.
                             </p>
                         <div className="section-item">
-                            <h2 className="section-topic2">
+                            <h2 className="section-topic3">
                                 3. Product leadership
                             </h2>
                         </div>
@@ -289,7 +289,7 @@ const Skills = () => {
                             </div>
                         </div>
                         <div className="section-item">
-                            <h2 className="section-topic2">
+                            <h2 className="section-topic3">
                                 4. Growth team leadership
                             </h2>
                         </div>
@@ -325,7 +325,7 @@ const Skills = () => {
                         </div>
 
                         <div className="section-item">
-                            <h2 className="section-topic2">
+                            <h2 className="section-topic3">
                                 5. Ecommerce leadership
                             </h2>
                         </div>
@@ -359,7 +359,7 @@ const Skills = () => {
                         </div>
 
                         <div className="section-item">
-                            <h2 className="section-topic2">
+                            <h2 className="section-topic3">
                                 6. Communication skills
                             </h2>
                         </div>
@@ -369,7 +369,7 @@ const Skills = () => {
 
                         
                         <div className="section-item">
-                            <h2 className="section-topic2">
+                            <h2 className="section-topic3">
                                 7. Coding skills
                             </h2>
                         </div>
@@ -397,7 +397,7 @@ const Skills = () => {
                         </p>
 
                         <div className="section-item">
-                            <h2 className="section-topic2">
+                            <h2 className="section-topic3">
                                 8. Tools
                             </h2>
                         </div>

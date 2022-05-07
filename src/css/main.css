@@ -92,6 +92,20 @@
   transition: background-size 0.25s ease-in;
 }
 
+.section-topic3 {
+  font-family: Ubuntu;
+  font-size: 1.7em;
+  margin-top: 30px;
+  font-weight: 800;
+  /* letter-spacing: 0.1em; */
+  color: #494b50;
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.2em;
+  background-position: 0 88%;
+  transition: background-size 0.25s ease-in;
+}
+
 .now-style {
   font-family: "Ubuntu";
   font-size: 2.5rem;
