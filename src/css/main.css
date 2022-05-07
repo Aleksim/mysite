@@ -34,7 +34,7 @@
     justify-content: flex-start;
     align-items: flex-start;
     align-content: stretch;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
     width: 90%;
   }
 }
@@ -48,7 +48,7 @@
     justify-content: flex-start;
     align-items: flex-start;
     align-content: stretch;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
   }
 }
 
@@ -81,7 +81,7 @@
 .section-topic2 {
   font-family: Ubuntu;
   font-size: 1.7em;
-  margin-top: 30px;
+  margin-top: 0px;
   font-weight: 800;
   /* letter-spacing: 0.1em; */
   color: #494b50;
