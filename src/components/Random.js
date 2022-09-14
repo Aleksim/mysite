@@ -16,6 +16,16 @@ const Random = () => {
 
                     <div>
                         <div className='project card'>
+                              <div className="card-content">
+                            <div className='headline-items'>
+                                <h2 className='project-headline'>Did this with After Effects + Element 3d</h2>
+                            </div>
+                            <Video videoSrcURL='https://www.youtube.com/embed/7-etvR21VwM' videoTitle="YouTube video player"/>
+                            <div className='buttons'>
+                            </div>
+                            </div>
+                        </div>
+                        <div className='project card'>
                             <div className="card-content">
                                 <div className='headline-items'>
                                     <h2 className='project-headline'>Short film: "The Little Place I Call Home" </h2>
@@ -25,16 +35,6 @@ const Random = () => {
                                 </div>
                             </div>
                         </div>
-                        {/* <div className='project card'>
-                              <div className="card-content">
-                            <div className='headline-items'>
-                                <h2 className='project-headline'>"Let's do weird ads turning memes into animations.."</h2>
-                            </div>
-                            <Video videoSrcURL='https://www.youtube.com/embed/AI7m3J6dAfM' videoTitle="YouTube video player"/>
-                            <div className='buttons'>
-                            </div>
-                            </div>
-                        </div> */}
                         {/* <div className='project card'>
                               <div className="card-content">
                             <div className='headline-items'>
