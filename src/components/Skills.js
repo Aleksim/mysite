@@ -43,13 +43,13 @@ const Skills = () => {
                                 2. Growth Hacking
                             </p>
                             <p className='teamwork-content'>
-                                3. Product leadership
+                                3. Product work
                             </p>
                             <p className='teamwork-content'>
-                                4. Growth team leadership
+                                4. Growth teams
                             </p>
                             <p className='teamwork-content'>
-                                5. Ecommerce leadership
+                                5. Ecommerce 
                             </p>
                             <p className='teamwork-content'>
                                 6. Communications skills
@@ -169,7 +169,7 @@ const Skills = () => {
                             </p>
                         <div className="section-item">
                             <h2 className="section-topic3">
-                                3. Product leadership
+                                3. Product work
                             </h2>
                         </div>
 
@@ -290,7 +290,7 @@ const Skills = () => {
                         </div>
                         <div className="section-item">
                             <h2 className="section-topic3">
-                                4. Growth team leadership
+                                4. Growth teams
                             </h2>
                         </div>
 
@@ -326,7 +326,7 @@ const Skills = () => {
 
                         <div className="section-item">
                             <h2 className="section-topic3">
-                                5. Ecommerce leadership
+                                5. Ecommerce
                             </h2>
                         </div>
                         <div>

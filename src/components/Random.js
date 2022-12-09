@@ -18,9 +18,9 @@ const Random = () => {
                         <div className='project card'>
                               <div className="card-content">
                             <div className='headline-items'>
-                                <h2 className='project-headline'>Did this with After Effects + Element 3d</h2>
+                                <h2 className='project-headline'>Some after effects animation stuff for Rentle! Check out <span><a target="_blank" href='https://youtube.com/shorts/4ZfPg3Azaqc?feature=share'>this</a></span> as well.</h2>
                             </div>
-                            <Video videoSrcURL='https://www.youtube.com/embed/7-etvR21VwM' videoTitle="YouTube video player"/>
+                            <Video videoSrcURL='https://www.youtube.com/embed/A-dAoPuZicc' videoTitle="YouTube video player"/>
                             <div className='buttons'>
                             </div>
                             </div>
